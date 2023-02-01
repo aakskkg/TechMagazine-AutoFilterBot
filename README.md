@@ -55,7 +55,7 @@ You can deploy this bot anywhere.
 <p>
 
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/TechMagazine-AutoFilterBot)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aakskkg/TechMagazine-AutoFilterBot)
 
 </p>
 </details>
